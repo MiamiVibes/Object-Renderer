@@ -1,5 +1,3 @@
-Object Renderer in Jupyter Notebook using Pygame
-Overview
 This project is a 3D object renderer created using the Pygame library, running in a Jupyter Notebook environment. It allows users to load, visualize, and interact with 3D OBJ models in real time. 
 The renderer computes the bounding box of each model to facilitate proper scaling and positioning on the canvas.
 
